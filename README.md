@@ -1,16 +1,12 @@
-# myapp
+# 🌍 CRUD Planetas
 
-A new Flutter project.
+Este repositório contém um sistema CRUD (Create, Read, Update, Delete) para gerenciamento de planetas. O projeto permite adicionar, visualizar, atualizar e remover planetas de um banco de dados.
 
-## Getting Started
+## 📦 Funcionalidades
+- Criar um novo planeta
+- Listar planetas existentes
+- Atualizar informações de um planeta
+- Deletar um planeta do banco de dados
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
