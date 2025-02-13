@@ -30,7 +30,7 @@ Este repositório contém um sistema CRUD (Create, Read, Update, Delete) para ge
 ## 🔧 Como Executar
 ### 1️⃣ Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/crud-planetas.git
+git clone https://github.com/illferrerinha/CRUD-Planetas.git
 cd crud-planetas
 ```
 ### 2️⃣ Instalar Dependências
@@ -58,7 +58,7 @@ CREATE TABLE planetas (
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e contribuir!
 
 ---
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario).
+Feito por Vinicius Ferreira (https://github.com/illferrerinha).
 
 
 
